@@ -16,14 +16,13 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@Ayushmhz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=@Ayushmhz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=@Ayushmhz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
-Below are some of my photoshop designs:-
+Some of my photoshop designs:-
 https://drive.google.com/drive/folders/1-q3xgv8GcrGbqCljBVuNHLSN2tf0cvn4?usp=drive_link
 
 <!---
