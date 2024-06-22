@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ayushmhz
-- 👀 I’m interested in UI/UX Design
+- 👀 I’m interested in Graphics Designing
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta @ig.ayushmhz
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... Ayush_Maharzan
 - ⚡ Fun fact: ...
 
 <!---
